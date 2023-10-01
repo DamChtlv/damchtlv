@@ -18,7 +18,7 @@ Choses dont j'ai l'habitude / ai déjà travaillé avec :
   <summary><sup>(traduction française)</sup></summary>
 Langages de programmation
 </details>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,php,mysql,bash" alt="languages logos" /> 
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,php,mysql,bash,py" alt="languages logos" /> 
 
 <h3> <strong> CMS / Frameworks / Libraries: </strong></h3>
 <details>
