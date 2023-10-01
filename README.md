@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&center=true&repeat=false&width=435&lines=Hello+there+%F0%9F%91%8B)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&vCenter=true&width=435&lines=Hello+there+%F0%9F%91%8B" alt="Typing SVG" />
 
-### i'm [Damien Chantelouve](https://dam.cht.lv/) 👨‍💻 <br> a french curious full stack developer 💡 which loves <br> both front ✨ and back ⚙ web development
+### i'm [Damien Chantelouve](https://dam.cht.lv/) 👨‍💻 <br> a french curious full stack developer 💡 which loves <br> both front ✨ & back ⚙ web development
 <details>
   <summary><sup>(traduction française)</sup></summary>
   
