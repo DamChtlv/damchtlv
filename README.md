@@ -16,7 +16,7 @@ https://durgeshsamariya.github.io/awesome-github-profile-readme-templates/
 </p>
 
 <h2 align="center"> <strong>I'm Damien Chantelouve 👨‍💻</strong> </h2>
-<p align="center"><sup><em>Space 🌠 / tech 🚀 / games 🎮 / music 🎧 lover but most importantly...</em></sup></p>
+<p align="center"><sup><em>Space 🌠 / tech 🚀 / new media art 🖥 / games 🎮 / music 🎧 lover but most importantly...</em></sup></p>
 <h2 align="center">  A <span style="color: blue;">fr</span>en<span style="color: red;">ch</span> curious full stack developer 💡  <br> which loves front ✨ & back ⚙ web development  </h2>
 <details align="center">
   <summary><sup>(traduction française)</sup></summary>
