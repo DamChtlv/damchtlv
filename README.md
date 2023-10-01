@@ -13,21 +13,21 @@
 Choses dont j'ai l'habitude / ai déjà travaillé avec :
 </details>
 
-<h3> <strong> Dev Languages: </strong></h3>
+### Dev Languages:
 <details>
   <summary><sup>(traduction française)</sup></summary>
 Langages de programmation
 </details>
 <img src="https://skillicons.dev/icons?i=html,css,sass,js,php,mysql,bash,py" alt="languages logos" /> 
 
-<h3> <strong> CMS / Frameworks / Libraries: </strong></h3>
+### CMS / Frameworks / Libraries:
 <details>
   <summary><sup>(traduction française)</sup></summary>
 Outils de gestion de contenus / Frameworks / Librairies
 </details>
 <img src="https://skillicons.dev/icons?i=wordpress,tailwind,react,threejs,vite" alt="CMS, frameworks and libraries logos" />
 
-<h3> <strong> Softwares / Tools / Services: </strong></h3>
+### Softwares / Tools / Services:
 <details>
   <summary><sup>(traduction française)</sup></summary>
 Logiciels / Outils / Services en ligne
