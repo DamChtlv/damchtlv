@@ -3,6 +3,8 @@ https://github.com/godkingjay/godkingjay
 https://github.com/DenverCoder1
 https://durgeshsamariya.github.io/awesome-github-profile-readme-templates/
  -->
+![Herbig-Haro-211-webb2](https://github.com/DamChtlv/damchtlv/assets/6544224/18e5ab7f-ed06-42c2-ae3b-1db1250dedda)
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7D407&center=true&vCenter=true&width=435&lines=Hello+there+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
