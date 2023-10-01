@@ -15,9 +15,9 @@ https://durgeshsamariya.github.io/awesome-github-profile-readme-templates/
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7D407&center=true&vCenter=true&width=435&lines=Hello+there+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
-<h3 align="center"> <strong>I'm Damien Chantelouve 👨‍💻</strong> </h3>
+<h2 align="center"> <strong>I'm Damien Chantelouve 👨‍💻</strong> </h2>
 <p align="center"><sup><em>Space 🌠 / tech 🚀 / games 🎮 / music 🎧 lover but most importantly...</em></sup></p>
-<h3 align="center">  A <span style="color: blue;">fr</span>en<span style="color: red;">ch</span> curious full stack developer 💡  <br> which loves front ✨ & back ⚙ web development  </h3>
+<h2 align="center">  A <span style="color: blue;">fr</span>en<span style="color: red;">ch</span> curious full stack developer 💡  <br> which loves front ✨ & back ⚙ web development  </h2>
 <details align="center">
   <summary><sup>(traduction française)</sup></summary>
   
