@@ -8,7 +8,7 @@ https://durgeshsamariya.github.io/awesome-github-profile-readme-templates/
  <img src="https://github.com/DamChtlv/damchtlv/raw/main/assets/Herbig-Haro-211-webb2.jpeg" alt="A new born star" />
 </a>
 <p align="center">
-  <em><sup>(Totally not related but it's a new born star, looks beautiful am i right? 🌠)</sup></em>
+  <em><sup>(Totally not related but it's a new born star, looks beautiful right? 🌠)</sup></em>
 </p>
 
 <p align="center">
