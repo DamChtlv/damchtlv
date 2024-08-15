@@ -50,7 +50,7 @@ Outils de gestion de contenus / Frameworks / Librairies
 
 <h3 align="center">  🖱 Softwares / Tools / Services  </h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,docker,postman,blender,figma,ps,ai,cloudflare,github,githubactions,gitlab,aws,gcp" alt="softwares, tools and services logos" />
+  <img src="https://skillicons.dev/icons?i=vscode,bun,docker,postman,blender,figma,ps,ai,cloudflare,github,githubactions,gitlab,aws,gcp" alt="softwares, tools and services logos" />
 </p>
 <details align="center">
   <summary><sup>(traduction française)</sup></summary>
